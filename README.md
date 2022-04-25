@@ -4,9 +4,10 @@
  
  <h1 align="center">Hi 👋, I'm Cirũ</h1>
 <h3 align="center">I am a creative, passionate, detailed, and hard-working software engineer with a deep interest in machine learning and AI. I believe IT is transformative and I’m always looking for creative ways to drive software towards impact. I love bringing my skills to team and projects in an attempt to leave every entity I touch better than I found it.</h3>
-- 👀 I’m interested in software enginnering and leveraging tech for both passion, fun, and the greater good.
-- 🌱 I’m currently learning additional concepts about building full stack web applications with HTML, CSS, and Javascript, node.js, MongoDB, Express.js, and React
-- 📫 How to reach me **https://ciruswebsite.netlify.app/**
+
+<p>- 👀 I’m interested in software enginnering and leveraging tech for both passion, fun, and the greater good. </p>
+<p>- 🌱 I’m currently learning additional concepts about building full stack web applications with HTML, CSS, and Javascript, node.js, MongoDB, Express.js, and React</p>
+<p>- 📫 How to reach me **https://ciruswebsite.netlify.app/**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
