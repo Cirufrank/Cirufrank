@@ -7,7 +7,7 @@
 
 <p>- 👀 I’m interested in software enginnering and leveraging tech for both passion, fun, and the greater good. </p>
 <p>- 🌱 I’m currently learning additional concepts about building full stack web applications with HTML, CSS, and Javascript, node.js, MongoDB, Express.js, and React</p>
-<p>- 📫 How to reach me <a href="https://ciruswebsite.netlify.app/" target="_blank"></p>
+<p>- 📫 How to reach me <a href="https://ciruswebsite.netlify.app/" target="_blank"></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
