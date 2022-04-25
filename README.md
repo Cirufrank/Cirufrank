@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/52118035/161667532-59c85f6f-f630-4f67-b65f-d02f5de8e800.jpg" alt="cute picture of natural hair girl smiling and their computer while they write some code. The computer screen reads 'console.log('I can do this!')'">
  </p>
  
- <h1 align="center">Hi 👋, I'm Cirũ</h1> ::wave::
+ <h1 align="center">Hi 👋, I'm Cirũ</h1> <g-emoji alias="wave" tone="4"></g-emoji>
 <h3 align="center">I am a creative, passionate, detailed, and hard-working software engineer with a deep interest in machine learning and AI. I believe IT is transformative and I’m always looking for creative ways to drive software towards impact. I love bringing my skills to team and projects in an attempt to leave every entity I touch better than I found it.</h3>
 
 <p>- 👀 I’m interested in software enginnering and leveraging tech for both passion, fun, and the greater good. </p>
