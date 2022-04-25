@@ -9,7 +9,7 @@
 <p>- 🌱 I’m currently learning additional concepts about building full stack web applications with HTML, CSS, and Javascript, node.js, MongoDB, Express.js, and React</p>
 <p>- 📫 How to reach me https://ciruswebsite.netlify.app/ </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
