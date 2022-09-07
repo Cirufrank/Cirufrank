@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Google App Script API, JavaScript, HTML</strong> - A script deployed as a Google Workspace Add-on Import Template Checker for Galaxy Digital Data Specialists</p>
+        <p><strong>Google App Script API, Google Workspace SDK, JavaScript, HTML, & CSS</strong> - A script deployed as a Google Workspace Add-on Import Template Checker for Galaxy Digital Data Specialists</p>
     </td>
   </tr>
   
