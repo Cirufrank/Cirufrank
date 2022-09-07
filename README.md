@@ -21,7 +21,7 @@
       <h3 align="center">Daily Goals Tracker</h3>
         <br />
         <a target="_blank" href="https://my-daily-goals.netlify.app/">
-            <img src="https://github.com/Cirufrank/daily-goals/raw/main/public/dailyGoalsGif.GIF" width="100%" alt="Travel App"/>
+            <img src="https://github.com/Cirufrank/daily-goals/raw/main/public/dailyGoalsGif.GIF" width="100%" alt="A gif overview of the my-daily-goals.netlify.app site. It shows a user putting in the goals 'code' and 'study ankk' within the app, then they press the edit goals button so that they can change that last goals to 'study anki'. Lastly, they add the 'study anki' goals and the loop starts over."/>
         </a>
         <br />
         <p align="center">
@@ -39,7 +39,7 @@
       <h3 align="center">Galaxy Digital Data Specialist Import Template Checker</h3>
         <br />
       <a target="_blank" href="https://github.com/Cirufrank/ImportTemplatesScript">
-            <img src="https://github.com/Cirufrank/ImportTemplatesScript/raw/main/importProgramsCheckGif.gif" width="100%"  alt="Rigley 2"/>
+            <img src="https://github.com/Cirufrank/ImportTemplatesScript/raw/main/importProgramsCheckGif.gif" width="100%"  alt="A gif showing the Google Sheets Import Checker Add-On running a check and highlighting the header cells and direct cells of the records with an error"/>
         </a>
         <br />
         <p align="center">
@@ -53,11 +53,26 @@
   </tr>
   
   <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">The Vegan Spot KC Website</h3>
+        <br />
+      <a target="_blank" href="https://the-vegan-spot-kc.netlify.app/">
+            <img src="https://ciruswebsite.netlify.app/images/The_Vegan_Spot_Wesbite_Gif.GIF" width="100%"  alt="A gif showing a quick overview the Vegan Spot restaurent's website. It starts on the home page with buttons leading to the additional pages, opens up the navigation menu, clicks on the order page, scrolls through this page, stops on the iframe of The Vegan Spot's facebook page and scrolls through their recent posts, and ends on showing an image of food that pops up before starting the loop over."/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Cirufrank/ImportTemplatesScript" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Google App Script API, Google Workspace SDK, JavaScript, HTML, & CSS</strong> - A script deployed as a Google Workspace Add-on Import Template Checker for Galaxy Digital Data Specialists</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Code Challenges</h3>
       <br />
         <a target="_blank" href="https://github.com/Cirufrank/CodeChallenges">
-          <img src="https://camo.githubusercontent.com/1663065ee80ff04cc560e6cfbe48fb97ddced3a0ad00e8c408e428c7c07113a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6871524a4f647873427547474b434775474f2f67697068792e676966" width="100%" alt="Portfolio"/>
+          <img src="https://camo.githubusercontent.com/1663065ee80ff04cc560e6cfbe48fb97ddced3a0ad00e8c408e428c7c07113a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6871524a4f647873427547474b434775474f2f67697068792e676966" width="100%" alt="A cute gif of a femme presenting person with curly pinkish hard looking confused as equations and expressions hover around them in the air. They're wearing a yellow top which looking puzzeled by the equations floating"/>
         </a>
       <br />
         <p align="center">
