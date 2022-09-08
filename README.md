@@ -57,12 +57,12 @@
       <h3 align="center">The Vegan Spot KC Website</h3>
         <br />
       <a target="_blank" href="https://the-vegan-spot-kc.netlify.app/">
-            <img src="https://ciruswebsite.netlify.app/images/The_Vegan_Spot_Wesbite_Gif.GIF" width="100%"  alt="A gif showing a quick overview the Vegan Spot restaurent's website. It starts on the home page with buttons leading to the additional pages, opens up the navigation menu, clicks on the order page, scrolls through this page, stops on the iframe of The Vegan Spot's facebook page and scrolls through their recent posts, and ends on showing an image of food that pops up before starting the loop over."/>
+            <img src="https://github.com/Cirufrank/CirusPortfolioSite/blob/main/images/The_Vegan_Spot_Wesbite_Gif.GIF" width="100%"  alt="A gif showing a quick overview the Vegan Spot restaurent's website. It starts on the home page with buttons leading to the additional pages, opens up the navigation menu, clicks on the order page, scrolls through this page, stops on the iframe of The Vegan Spot's facebook page and scrolls through their recent posts, and ends on showing an image of food that pops up before starting the loop over."/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Cirufrank/ImportTemplatesScript](https://the-vegan-spot-kc.netlify.app/" target="_blank">
+  <a href="https://the-vegan-spot-kc.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
