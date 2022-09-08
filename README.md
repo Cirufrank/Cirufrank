@@ -62,11 +62,11 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/Cirufrank/ImportTemplatesScript" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/Cirufrank/ImportTemplatesScript](https://the-vegan-spot-kc.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Google App Script API, Google Workspace SDK, JavaScript, HTML, & CSS</strong> - A script deployed as a Google Workspace Add-on Import Template Checker for Galaxy Digital Data Specialists</p>
+        <p><strong>FIGMA, React.js, Node.js, 11ty, the Netlify Content Managetment System, nunjucks, JavaScript, HTML, and CSS</strong> - I consulted with the Vegan Spot KC restaurant about their needs, designed their site based on their preferences, implemented the site, and setup a content management system so that they can change the content of their site whenever they desire.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Code Challenges</h3>
