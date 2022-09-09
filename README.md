@@ -38,13 +38,13 @@
     <td width="50%" valign="top">
       <h3 align="center">Galaxy Digital Data Specialist Import Template Checker</h3>
         <br />
-      <a target="_blank" href="https://github.com/Cirufrank/ImportTemplatesScript">
+      <a target="_blank" href="https://github.com/Cirufrank/importTemplateScriptV4">
             <img src="importProgramsCheckGif.gif" width="100%"  alt="A gif showing the Google Sheets Import Checker Add-On running a check and highlighting the header cells and direct cells of the records with an error"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Cirufrank/ImportTemplatesScript" target="_blank">
+  <a href="https://github.com/Cirufrank/importTemplateScriptV4" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
