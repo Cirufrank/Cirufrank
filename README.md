@@ -18,6 +18,21 @@
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Galaxy Digital Data Specialist Import Template Checker</h3>
+        <br />
+      <a target="_blank" href="https://github.com/Cirufrank/importTemplateScriptV4">
+            <img src="importProgramsCheckGif.gif" width="100%"  alt="A gif showing the Google Sheets Import Checker Add-On running a check and highlighting the header cells and direct cells of the records with an error"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Cirufrank/importTemplateScriptV4" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Google App Script API, Google Workspace SDK, JavaScript, HTML, & CSS</strong> - A script deployed as a Google Workspace Add-on Import Template Checker for Galaxy Digital Data Specialists</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Daily Goals Tracker</h3>
         <br />
         <a target="_blank" href="https://my-daily-goals.netlify.app/">
@@ -34,21 +49,6 @@
   </a>
       </p>
         <p><strong>React.js, Javascript, CSS, & Node.js</strong> - A daily goals tracker application meant to help people celebrate themselves and their wins!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Galaxy Digital Data Specialist Import Template Checker</h3>
-        <br />
-      <a target="_blank" href="https://github.com/Cirufrank/importTemplateScriptV4">
-            <img src="importProgramsCheckGif.gif" width="100%"  alt="A gif showing the Google Sheets Import Checker Add-On running a check and highlighting the header cells and direct cells of the records with an error"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Cirufrank/importTemplateScriptV4" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Google App Script API, Google Workspace SDK, JavaScript, HTML, & CSS</strong> - A script deployed as a Google Workspace Add-on Import Template Checker for Galaxy Digital Data Specialists</p>
     </td>
   </tr>
   
