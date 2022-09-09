@@ -21,7 +21,7 @@
       <h3 align="center">Daily Goals Tracker</h3>
         <br />
         <a target="_blank" href="https://my-daily-goals.netlify.app/">
-            <img src="https://github.com/Cirufrank/daily-goals/raw/main/public/dailyGoalsGif.GIF" width="100%" alt="A gif overview of the my-daily-goals.netlify.app site. It shows a user putting in the goals 'code' and 'study ankk' within the app, then they press the edit goals button so that they can change that last goals to 'study anki'. Lastly, they add the 'study anki' goals and the loop starts over."/>
+            <img src="dailyGoalsGif.GIF" width="100%" alt="A gif overview of the my-daily-goals.netlify.app site. It shows a user putting in the goals 'code' and 'study ankk' within the app, then they press the edit goals button so that they can change that last goals to 'study anki'. Lastly, they add the 'study anki' goals and the loop starts over."/>
         </a>
         <br />
         <p align="center">
@@ -39,7 +39,7 @@
       <h3 align="center">Galaxy Digital Data Specialist Import Template Checker</h3>
         <br />
       <a target="_blank" href="https://github.com/Cirufrank/ImportTemplatesScript">
-            <img src="https://github.com/Cirufrank/ImportTemplatesScript/raw/main/importProgramsCheckGif.gif" width="100%"  alt="A gif showing the Google Sheets Import Checker Add-On running a check and highlighting the header cells and direct cells of the records with an error"/>
+            <img src="importProgramsCheckGif.gif" width="100%"  alt="A gif showing the Google Sheets Import Checker Add-On running a check and highlighting the header cells and direct cells of the records with an error"/>
         </a>
         <br />
         <p align="center">
@@ -57,7 +57,7 @@
       <h3 align="center">The Vegan Spot KC Website</h3>
         <br />
       <a target="_blank" href="https://the-vegan-spot-kc.netlify.app/">
-            <img src="https://github.com/Cirufrank/CirusPortfolioSite/blob/main/images/The_Vegan_Spot_Wesbite_Gif.GIF" width="100%"  alt="A gif showing a quick overview the Vegan Spot restaurent's website. It starts on the home page with buttons leading to the additional pages, opens up the navigation menu, clicks on the order page, scrolls through this page, stops on the iframe of The Vegan Spot's facebook page and scrolls through their recent posts, and ends on showing an image of food that pops up before starting the loop over."/>
+            <img src="The_Vegan_Spot_Website.GIF" width="100%"  alt="A gif showing a quick overview the Vegan Spot restaurent's website. It starts on the home page with buttons leading to the additional pages, opens up the navigation menu, clicks on the order page, scrolls through this page, stops on the iframe of The Vegan Spot's facebook page and scrolls through their recent posts, and ends on showing an image of food that pops up before starting the loop over."/>
         </a>
         <br />
         <p align="center">
